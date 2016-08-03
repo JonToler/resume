@@ -1,6 +1,6 @@
 # _resume_
 
-#### _Applied "<div> and <span>" command to edits webpage, 08.03.2016_
+#### _Applied div and span command to edits webpage, 08.03.2016_
 
 #### By _**Nhat Hoang and Jon Toler**_
 
