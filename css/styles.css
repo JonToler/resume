@@ -5,3 +5,19 @@
 .aig{
   color: purple;
 }
+h1.aig {
+  text-align: center;
+}
+.picture {
+  float: left;;
+}
+.sidebar {
+  float: right;
+  width: 400px;
+  margin: auto;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
